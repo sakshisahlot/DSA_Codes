@@ -1,3 +1,3 @@
 # Data Structure and Algorithm basic codes
-This repo contains the basic data structures implementation and algorithms.<br>
+This repo contains the basic data structures and algorithms implementation.<br>
 Author - SAKSHI
